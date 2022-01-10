@@ -1,3 +1,3 @@
 # trial-pythong
-dashy
+Dash Visualization 
 A trial on dash visualization for Python
